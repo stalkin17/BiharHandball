@@ -1,0 +1,288 @@
+
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+		<meta name="description" content="Bihar handball Association is the also know as BHA which is the handball game controlling in Bihar, which organinges matches in Bihar led by BHA.">
+    	<meta name="keywords" content="Bihar Handball Association,BHA bihar, BHA,Bihar BHA,hand ball Matches in bihar">
+    	<meta name="robots" content="index, follow"/>
+		<link rel="icon" href="favicon.ico">
+		<title>Bihar Hand Ball Association</title>
+		<script type="application/ld+json">    
+        {
+          "@context": "https://schema.org",
+          "@type": "WebSite",
+          "url": "http://biharhandballassociation.com/",
+          "potentialAction": {
+            "@type": "SearchAction",
+            "target": "https://query.biharhandballassociation.com/search?q={search_term_string}",
+            "query-input": "required name=search_term_string"
+          }
+        }
+         </script>
+		<!-- Bootstrap core CSS -->
+		<link href="css/bootstrap.min.css" rel="stylesheet">
+
+		<!-- Custom styles for this template -->
+		<link href="css/style.css" rel="stylesheet">
+		<!-- Font Awsome s for this template -->
+		<!-- <link rel="stylesheet" href="css/fontawesome.min.css" > -->
+		 
+		<!-- Image Gallery css -->
+		  <link rel="stylesheet" href="css/baguetteBox.min.css" />
+  		  <link rel="stylesheet" type="text/css" href="css/compact-gallery.css">
+
+  		<!-- validation css -->
+    	<link rel="stylesheet" href="css/theme-default.min.css">
+		
+
+
+	</head>
+	<body>	
+<!-- -----------------banner for this template starts here --------------------------------------->	     
+		<div class="container-fluid m-0 p-0">
+			<img src="images/banner.png" alt="banner" width="100%" class="img-responsive">
+		</div>
+<!-- --------------------------------banner for this template ends here -------------------------->
+
+<!-- --------------------------------navbar for this template starts here ----------------------->	
+		<nav class="navbar navbar-expand-md navbar-dark bg-secondary sticky-top ">
+			<a class="navbar-brand font-effect-3d" href="index.php">BIHAR HANDBALL ASSOCIATION</a>
+			<button class="navbar-toggler " type="button" data-toggle="collapse" data-target="#navbarsExampleDefault" aria-controls="navbarsExampleDefault" aria-expanded="false" aria-label="Toggle navigation">
+			<span class="navbar-toggler-icon"></span>
+			</button>
+
+				<div class="collapse navbar-collapse" id="navbarsExampleDefault">
+					<ul class="navbar-nav ml-auto text-center">
+						<li class="nav-item active">
+							<a class="nav-link" href="index.php"><i class="fa fa-home"></i>&nbsp;Home <span class="sr-only">(current)</span></a>
+						</li>
+						<li class="nav-item">
+							<a class="nav-link" href="aboutus.php">Management</a>
+						</li>
+						<li class="nav-item">
+							<a class="nav-link " href="registration.php">Registration</a>
+						</li>
+						<li class="nav-item">
+							<a class="nav-link " href="gallery.php">Gallery</a>
+						</li>
+						<li class="nav-item">
+							<a class="nav-link " href="videos.php">Videos</a>
+						</li>
+						<li class="nav-item">
+							<a class="nav-link " href="contactus.php">Contact Us</a>
+						</li>
+						
+					</ul>
+					
+				</div>
+		</nav>
+<!----------------------------------navbar for this template ends here ---------------------------->
+			
+		
+<!-------------------------------- carousel starts here------------------------------------------->
+<div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
+	  <ol class="carousel-indicators">
+	    <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
+	    <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
+	    <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
+	  </ol>
+	  <div class="carousel-inner">
+	    <div class="carousel-item active">
+	      <img class="d-block w-100" src="images/imgslider/1.jpg" alt="First slide">
+	    </div>
+	    <div class="carousel-item">
+	      <img class="d-block w-100" src="images/imgslider/2.jpg" alt="Second slide">
+	    </div>
+	    <div class="carousel-item">
+	      <img class="d-block w-100" src="images/imgslider/3.jpg" alt="Third slide">
+	    </div>
+	  </div>
+	  <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
+	    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+	    <span class="sr-only">Previous</span>
+	  </a>
+	  <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
+	    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+	    <span class="sr-only">Next</span>
+	  </a>
+</div>
+<!-------------------------------- carousel starts here----------------------------------- -->
+
+
+<div class="container-fluid m-0 p-0">
+
+    <div class="row">
+        <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 d-flex align-items-stretch">
+            <div class="card  border border-success m-2 p-2" style="width:48rem;">
+              <div class="card-header bg-success text-center text-white text-justify">
+                <span class="heading font-effect-emboss">
+                    <i class="fas fa-user-circle"></i>
+                    ABOUT US</span></div>
+                    <div class="card-body text-justify ">
+                    <span >Its our privilage to announce that on <b> 1<sup>st</sup> Dec, 2018</b>,a brand new website of Bihar Handball Association is launched to connect the Handball activities of Bihar to each and every stakeholders of Bihar Handball Association.This step is an approach to spread equality among each individual. We are trying to make handball more than active and transparent ever in state.We have made all efforts to provide relevant information to the handball fraternity and fans, and are constantly endeavoring to keep our website updated. Feel free to leave any suggestion at our 
+                    contact us page <i class="text-danger fas fa-share"></i> <a href="contactus.php" class="text-danger">Click here.</a>
+
+                    </span>
+                    
+                </div>
+            </div>
+        </div>
+            <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 d-flex align-items-stretch">
+            <div class="card border border-danger m-2 p-2" style="width: 48rem;">
+              <div class="card-header bg-danger text-center  text-justify">
+                <span class="heading font-effect-emboss">
+                    <i class="fas fa-flag"></i>
+                    NOTIFICATION</span>
+            </div>
+              <ul class="list-group list-group-flush ">
+                  <li class="list-group-item">
+                    <i class="text-primary fas fa-edit"></i>                      
+                    &nbsp;</i>  <kbd> <a href="/upload/guideline.pdf">Click here</a></kbd> for Registration Guidelines. </li>  
+                                 
+              <li class="list-group-item">
+                  <i class="text-primary fas fa-edit"></i>                      
+                    &nbsp;</i> <kbd> <a href="/upload/deletion_list.pdf">Click here</a></kbd> for Deletion list of Players  for voilating  <a href = "/upload/guideline.pdf" class = 'text text-danger'> Registration Guideline</a>. </li>
+                     <li class="list-group-item">
+                  <i class="text-primary fas fa-edit"></i>                      
+                    &nbsp;</i> <kbd> <a href="/upload/banned_list.jpg">Click here</a></kbd> for List of Banned Players. </li>
+           <li class="list-group-item" >
+                    <i class="text-primary fas fa-edit"></i>                      
+                    &nbsp;</i>  <kbd> <a href="/notifiication_4.pdf" download>Click here</a></kbd> for Detailed Notification for 6<sup>th</sup> Bihar Junior Boys Handball Championship 2020-21. </li> 
+             
+                 
+              </ul>
+            </div>
+        </div>
+
+            <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 d-flex align-items-stretch">
+            <div class="card border border-primary m-2 p-2" style="width: 48rem;" id="demo2">
+              <div class="card-header bg-primary text-center  text-justify">
+                <span class="heading font-effect-emboss">
+                    <i class="fas fa-bullhorn"></i>
+                    LATEST NEWS</span>
+            </div>
+              <ul class="list-group list-group-flush ">
+                <marquee behavior="slide" direction="up" scrollamount="2"  height ="100%" loop='10000' >
+                                      
+                 
+                     <li class="list-group-item">
+                    <i class="text-primary fas fa-edit"></i>                      
+                    &nbsp;</i> Registration for 6<sup>th</sup> Bihar Junior Boys Handball Championship 2020-21 is Open Now . 
+					</li>
+                     <li class="list-group-item">
+                    <i class="text-primary fas fa-edit"></i>                      
+                    &nbsp;</i> Last Date of Online Registration is 31<sup>st</sup> December 2020, 12:00AM. </li> 
+                </marquee>
+                
+              </ul>
+            </div>
+        </div>
+    
+</div>
+
+
+<!-------------------------------- footer starts here --------------------------------------->
+<div class="container-fluid m-0 p-0" id="footer">
+    <div class="row footer-top p-2">
+<!-- ***************************************************************************************** -->
+        <div class="col-md-4 col-sm-4 text-center" id="address">
+            <h4 class="ft-text-title font-effect-emboss ">Contact Us</h4>
+            <h6 class="ft-desp">Bihar Handball Association</h6>
+            <div class="details"> 
+                    <span class="member">
+                        <b>Team Management</b> : Abhishek Kumar Singh  
+                    </span> <br>
+                    <span> Help Line : 09939110011</span><br>
+                    <span class="member">
+                        <b>Technical Support</b> : support@biharhandballassociation.com
+                    </span>
+                    
+            </div>
+        </div>
+<!-- *************************************************************************************** -->
+            <div class="col-md-5 col-sm-4 border-left" id="management">
+                <h4 class="ft-text-title font-effect-emboss">Management Team</h4>
+                <div class=" text-center">
+					<span class="member">
+                        <b>Chairman</b> : Er Sachichidanand Ray&nbsp;(MLC)
+                    </span><br>
+                    <span class="member">
+                        <b>President</b> : Pankaj Kumar 
+                    </span><br>
+                    <span class="member">
+                        <b>Secretary General</b> : Braj Kishor Sharma 
+                    </span><br>
+                    <span class="member">
+                        <b>Tresurer</b> : Tripurari Prasad 
+                    </span>
+                    
+                      
+               </div>
+           </div>
+<!-- *************************************************************************************** -->
+           <div class="col-md-3 col-sm-4 text-center border-left" id="social">
+            <h4 class="ft-text-title font-effect-emboss">Social Links</h4><br>           
+            <div class="pspt-dtls my-5">
+                <span><a href="#" class="about mt-5"><i class="fab fa-youtube"></i></a></span>
+                <span> <a href="#" class="team"><i class="fab fa-facebook fa-1x"></i></a></span>
+                <span><a href="#" class="advertise"><i class="fab fa-twitter fa-1x"></i></a></span>
+            </div>
+        </div>
+<!-- ***************************************************************************************** -->
+    </div><!-- row ends here -->
+</div><!-- container ends here -->
+
+
+<!--------------------------------------- bottom footer starts here --------------------------------->
+    <div class="row ft-copyright pt-2 pb-2">
+        <div class="col-sm-4 text-pp-crt" id="footer_copy" > &copy; 2018 All  Rights Reserved</div>        
+        <div class="col-sm-4 text-pp-crt-rg" id="footer_visitor">Visitor Counter :
+            <!-- Start of CuterCounter Code -->
+            <a href="http://www.cutercounter.com/" target="_blank"><img src="http://www.cutercounter.com/hit.php?id=gmuufqdno&nd=5&style=2" border="0" alt="hit counter"></a>
+            <!-- End of CuterCounter Code -->
+        </div>
+        <div class="col-sm-4 developer" id="footer_credit">
+            <a href="https://goo.gl/ChjYHf" target="_blank" class="text-pp-crt">Developed By : <b>S</b>andeep<b>K</b>umar<b>S</b>harma,MCA <br>| Prince Kumar Singh</a>
+        </div>
+    </div>
+
+<!--------------------------------------- bottom footer ends here --------------------------------->
+
+<!-------------------------------- footer starts here --------------------------------------->	
+<!-- Bootstrap core JavaScript ================================================== -->
+<!-- Placed at the end of the document so the pages load faster -->
+        <script src="js/jquery.min.js"></script>     
+        <script src="js/popper.min.js"></script>
+        <script src="js/bootstrap.min.js"></script>
+        <script src="js/validator.min.js"></script>
+        <script src="js/validation.js"></script>        
+       <script src="js/formvalidator.min.js"></script>
+       <script src="js/sanitize.js"></script>
+       <script src="js/security.js"></script>
+       <script src="js/html5.js"></script>
+       <script src="js/date.js"></script>
+       <script src="js/file.js"></script>
+       <script src="js/all.min.js"></script>
+       <script src="js/custom.js"></script>
+       <script src="js/custom1.js"></script>
+       <script src="js/gmail.js"></script>
+     <!--   <script src="js/jquery-1.11.3.js"></script> -->
+
+<script>
+$.validate({
+modules : 'date, security,sanitize,file'
+});
+</script>
+
+
+
+
+  
+
+<!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+<!-- <script src="js/ie10-viewport-bug-workaround.js"></script> -->
+    </body>
+</html>
+
